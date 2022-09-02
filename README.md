@@ -6,7 +6,7 @@
 
 ## 📋 Sobre
 
-Aplicativo que ultiliza API da Marvel para consultar seus heróis e suas respequitivas comics.
+Aplicativo que utiliza API da Marvel para consultar seus heróis e suas respectivas comics.
 
 ## 🛠️ Construído com
 
