@@ -10,8 +10,6 @@ Aplicativo que utiliza API da Marvel para consultar seus heróis e suas respecti
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [Retrofit2](https://square.github.io/retrofit/) - Criar conexão Web Service
 * [ROOM](https://developer.android.com/training/data-storage/room) -  Camada de abstração sobre o SQLite
 * [MVVM](https://docs.microsoft.com/pt-br/windows/uwp/data-binding/data-binding-and-mvvm) -  Arquitetura de interface
